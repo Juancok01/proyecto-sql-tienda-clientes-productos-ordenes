@@ -62,7 +62,7 @@ La base de datos está compuesta por **tres tablas principales** relacionadas en
 
 ---
   
-💡 Conclusiones del Proyecto
+## 💡 Conclusiones del Proyecto
 
 -Se logró crear una base de datos relacional con integridad referencial mediante claves foráneas.
 
@@ -73,7 +73,7 @@ La base de datos está compuesta por **tres tablas principales** relacionadas en
 -Practiqué comandos básicos y avanzados: SELECT, INSERT, UPDATE, DELETE, JOIN.
 
 ---
-📢 Nota
+## 📢  Nota
 
 Este proyecto es parte de mi proceso de aprendizaje para convertirme en Administrador de Bases de Datos Junior. Toda retroalimentación es bienvenida. 🚀
 
